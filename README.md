@@ -6,7 +6,7 @@ A virtual reality project created as part of [XRTerra's AR & VR Developer Progra
 
 ## Decription
 
-This application is an virtual reality rendition of the popular cornhole/beanbag toss game, for Android phones with Google Cardboard compatibility (essentially all phones running Android 4.1 or higher, and which have a gyroscope). The virtual reality scene consists of a natural environment, with a cornhole board placed on some distance from the player, an interactables table where each new beanbag is spawned, and where the user can switch between environments. A score field above the board is updated after every valid throw, with +1 points for every throw on the board, and +3 for every throw into the hole. The beanbag can be thrown wherever by grabbing it, aiming it at a specific location, and letting go of the controller.
+This application is a virtual reality rendition of the popular cornhole/beanbag toss game, for Android phones with Google Cardboard compatibility (essentially all phones running Android 4.1 or higher, and which have a gyroscope). The virtual reality scene consists of a natural environment, with a cornhole board placed on some distance from the player, an interactables table where each new beanbag is spawned, and where the user can switch between environments. A score field above the board is updated after every valid throw, with +1 points for every throw on the board, and +3 for every throw into the hole. The beanbag can be thrown wherever by grabbing it, aiming it at a specific location, and letting go of the controller.
 
 ## Installation
 
